@@ -1,0 +1,178 @@
+.navbar{
+    height: 100px;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+.edit1{
+    color: white;
+    position: relative;
+    margin-left: 50px;
+    top: 30px;
+    height: 5px;
+    
+}
+.img1{
+    position: relative;
+    left: 55px;
+    top: 25px;
+    height: 20px;
+    
+}
+.img2{
+    height: 45px;
+    position: relative;
+    left: 5px;
+    top: 1px;
+    
+}
+.items{
+border: 1px solid;
+border-color: rgb(146, 135, 135);
+width: 800px;
+height: 950px;  
+text-align: center;
+padding-top: 30px;
+justify-content: center;
+background-color: rgb(2, 2, 2);
+margin-left: auto;
+margin-right: auto;
+color: white;
+margin-top: 20px;
+border-radius: 10px;
+position: relative;
+top: 30px;
+border: 0px;
+}
+.edit2{
+    font-size: 45px;
+    position: relative;
+    top: 20px;
+}
+.but1{
+    height: 45px;
+    width: 280px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    border: 1px solid rgb(122, 118, 118);
+    font-size: 16px;
+    margin-top: 10px;
+    top: 90px;
+    left: 5px;
+}
+.img3{
+    height: 20px;
+    position: relative;
+    right: 20px;
+    width: 20px;
+}
+.img4{
+    height: 20px;
+    position: relative;
+    right: 13px;
+    width: 20px;
+}
+.img5{
+    height: 20px;
+    position: relative;
+    right: 25px; 
+}
+.line{
+    width: 550PX;
+    height: 1px;
+    border: 0 none;
+    background-color: rgb(105, 101, 101);
+    position: relative;
+    left: 120px;
+    top: 130px;
+}
+.edit3{
+    height: 40px;
+    width: 280px;
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    top: 202px;
+    left: -68px;
+    right: 10px;
+    border-radius: 5px;
+    color: rgb(193, 193, 201);
+    background-color: rgb(36, 35, 35);
+    padding-left: 5px;
+}
+.edit4{
+    position: relative;
+    top: 170px;
+    left: 66px;
+}
+.edit6{
+    height: 40px;
+    width: 280px;
+    border: 1px solid rgb(255, 255, 255);
+    position: relative;
+    top: 230px;
+    right: 35px;
+    border-radius: 5px;
+    color: rgb(29, 29, 31);
+    background-color: rgb(230, 224, 224);
+    padding-left: 5px;
+}
+.edit5{
+    position: relative;
+    top: 199px; 
+    left: 35px;
+}
+.box{
+    position: relative;
+    top: 233px;
+    right: 90px;
+    height: 10px;
+    
+}
+.but2{
+    height: 45px;
+    width: 280px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(50, 218, 28);
+    border: 0px solid rgb(122, 118, 118);
+    font-size: 16px;
+    margin-top: 10px;
+    position: relative;
+    left: 88px;
+    top: 1px;
+}
+.edit8{
+    position: relative;
+    top: 40px;
+    left: 90px;
+    color: white;
+}
+.line1{
+    width: 550PX;
+    height: 1px;
+    border: 0 none;
+    background-color: rgb(105, 101, 101);
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+.p{
+position: relative;
+top: 110px;
+left: 83px;
+}
+.edit9{
+    position: relative;
+    top: 180px;
+    left: 90px;
+}
+.main{
+    background-color: rgb(20, 20, 20);
+    position: relative;
+    bottom: 20px;
+    height: 1010px;
+}
+.edit7{
+   margin-left: 20px;
+   position: relative;
+}
